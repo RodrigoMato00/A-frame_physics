@@ -3,10 +3,11 @@
 In this example I include objects that are intectuated and affected by physics.
 In order to test it, it is necessary to use Oculus.
 ## Physics activated:
--Gravity
--Colitions
 
-Adding basic physics to a scene using the physics system component. 
+- Gravity
+- Colitions
+
+- Adding basic physics to a scene using the physics system component. 
 
 ## Oculus controls:
 
